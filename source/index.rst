@@ -11,4 +11,5 @@ Welcome to NoteBook's documentation!
    :glob:
 
    linux/index
+   tools/index
 
